@@ -1,9 +1,2 @@
-# Create a new directory for your project (if you haven't already)
-mkdir ai-puzzle-game
-cd ai-puzzle-game
-
-# Initialize a git repository
-git init
-
-# Create a .gitignore file
-touch .gitignore
+# Chatbot-type-puzzle
+Case Study in Artificial Intelligence CSEN2031  By Addanki.Neha – VU22CSEN0101647   Under the Guidance of Murthy V.S.V.S   ( MARCH 2025)
